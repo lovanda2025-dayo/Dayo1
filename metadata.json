@@ -1,0 +1,7 @@
+{
+  "name": "Flame Match",
+  "description": "Uma interface moderna de aplicativo de namoro para descobrir e se conectar com novas pessoas. Deslize por perfis em tela cheia com um design elegante de glassmorfismo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
